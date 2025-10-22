@@ -44,7 +44,7 @@ Fuzora is a powerful SaaS automation builder that helps you streamline your work
 
 ## Feature Requests
 
-To request a feature open a [GitHub issue](https://github.com/anayatkhan1/Fuzora/issues).
+To request a feature open a [GitHub issue](https://github.com/stack-weaver/Fuzora/issues).
 
  ## Contribution Guidelines
 

@@ -133,3 +133,4 @@ STRIPE_SECRET=
 
 ```
 You can set these environment variables by creating a `.env.local or .env` file in the root directory of the project and adding the variables with their respective values:
+```If you have some questions in this project, feel free to reach out.```
